@@ -1,0 +1,14 @@
+name: Coinsystem
+version: 1.0
+author: Adderino55
+main: coin_main.Main_
+commands:
+   cinf:
+   setparc spawn:
+   setparc2 spawn:
+   setparc3 spawn:
+   setparc4 spawn:
+   setparc5 spawn:
+   setparc6 spawn:
+   cadd:
+      description: adds coins to someones account
