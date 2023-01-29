@@ -47,7 +47,7 @@ Use of assisting software:
 
 End progress of Software:
 
--unfinished- till now can perform said commands and monitor the coin amount in a yml file (data from file can be used for further development).
+-unfinished- Till now can perform said commands and monitor the coin amount in a yml file (data from file can be used for further development).
 
 ------------------------------------------------------------------------
 
